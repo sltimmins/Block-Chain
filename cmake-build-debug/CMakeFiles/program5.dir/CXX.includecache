@@ -6,37 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/stimmins/Documents/GitHub/Block-Chain/Cash.cpp
-iostream
--
-iomanip
--
-Cash.h
-/Users/stimmins/Documents/GitHub/Block-Chain/Cash.h
-
 /Users/stimmins/Documents/GitHub/Block-Chain/Cash.h
 Transaction.h
 /Users/stimmins/Documents/GitHub/Block-Chain/Transaction.h
 
-/Users/stimmins/Documents/GitHub/Block-Chain/Check.cpp
-iostream
--
-iomanip
--
-Check.h
-/Users/stimmins/Documents/GitHub/Block-Chain/Check.h
-
 /Users/stimmins/Documents/GitHub/Block-Chain/Check.h
 Transaction.h
 /Users/stimmins/Documents/GitHub/Block-Chain/Transaction.h
-
-/Users/stimmins/Documents/GitHub/Block-Chain/CreditCard.cpp
-iostream
--
-iomanip
--
-CreditCard.h
-/Users/stimmins/Documents/GitHub/Block-Chain/CreditCard.h
 
 /Users/stimmins/Documents/GitHub/Block-Chain/CreditCard.h
 Transaction.h
@@ -76,21 +52,9 @@ Cash.h
 Check.h
 /Users/stimmins/Documents/GitHub/Block-Chain/Check.h
 
-/Users/stimmins/Documents/GitHub/Block-Chain/Peer.cpp
-Peer.h
-/Users/stimmins/Documents/GitHub/Block-Chain/Peer.h
-
 /Users/stimmins/Documents/GitHub/Block-Chain/Peer.h
 LinkedList.h
 /Users/stimmins/Documents/GitHub/Block-Chain/LinkedList.h
-Transaction.h
-/Users/stimmins/Documents/GitHub/Block-Chain/Transaction.h
-
-/Users/stimmins/Documents/GitHub/Block-Chain/Transaction.cpp
-iostream
--
-iomanip
--
 Transaction.h
 /Users/stimmins/Documents/GitHub/Block-Chain/Transaction.h
 
